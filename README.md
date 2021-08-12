@@ -1,4 +1,4 @@
-# [OC] Arch Linux Tech-ish Wallpaper
+# Arch Linux Tech-ish Wallpaper
 
 This is a repository for my Arch Linux logo wallpaper's
 
