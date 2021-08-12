@@ -9,3 +9,6 @@ Feel free to share, modifiy, redistribute as you wish!
 
 ### Preview [Outlined]:
 ![outline_version](https://github.com/0x-BAD/arch-logo/blob/main/arch_outline.png "Outline Version")
+
+### Preview [Flat]:
+![flat_version](https://github.com/0x-BAD/arch-logo/blob/main/arch_flat.png "Flat Version")
